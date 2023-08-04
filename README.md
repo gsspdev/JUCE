@@ -1,3 +1,5 @@
+A MIRROR I MADE OF JUCE FOR MY PURPOSES
+
 ![alt text](https://assets.juce.com/juce/JUCE_banner_github.png "JUCE")
 
 JUCE is an open-source cross-platform C++ application framework for creating high quality
